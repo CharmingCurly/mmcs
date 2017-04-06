@@ -1,4 +1,4 @@
-// buy computer.cpp: определяет точку входа для консольного приложения.
+// buy computer.cpp: Г®ГЇГ°ГҐГ¤ГҐГ«ГїГҐГІ ГІГ®Г·ГЄГі ГўГµГ®Г¤Г  Г¤Г«Гї ГЄГ®Г­Г±Г®Г«ГјГ­Г®ГЈГ® ГЇГ°ГЁГ«Г®Г¦ГҐГ­ГЁГї.
 //
 
 #include "functions.h"
@@ -13,7 +13,7 @@ int main()
 	cout << "Price list from shop, list for buy:" << endl;
 	cin.getline(file_quantity, 100);
 	cin.getline(file_list, 100);
-	(get(file_quantity, file_list)) ? cout << "Yes" : cout << "No";
+	(get(file_quantity, file_list)) ? cout << "List is compatible" : cout << "List is incompatible";
 	return 0;
 }
 
