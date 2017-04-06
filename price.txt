@@ -1,0 +1,13 @@
+12
+12 123 10 processor i3;15 16 17 18 19
+12 124 5 another processor i3;15 16 17 18 19
+13 125 7 processor opteron;15 16 17 18 19
+14 126 0 non-existing i4;15 16 17 18 19
+15 127 4 videocard nvidia;12 13 14 15 17 18 19
+15 128 8 videocard sli nvidia;12 13 14 15 18 19
+16 129 11 videocard amd;12 13 14 17 18 19
+16 130 9 another videocard amd;12 13 14 18 19
+17 131 10 box;12 13 14 15 16 19
+17 132 3 another box;12 13 14 15 16 19
+18 133 1 powerful box;12 13 14 15 16 19
+19 134 5 cd-rom;12 13 14 15 16 17 18
